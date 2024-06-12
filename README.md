@@ -75,21 +75,11 @@ Contributions are welcome! To contribute to this project, follow these steps:
 1. **Fork the Repository** on GitHub.
 2. **Clone Your Fork**:
    ```sh
-   git clone https://github.com/yourusername/food-donation-system.git
+   git clone https://github.com/TAHASHAH12/food-donation-system.git
    ```
-3. **Create a Branch**:
-   ```sh
-   git checkout -b feature/your-feature-name
+
    ```
-4. **Commit Your Changes**:
-   ```sh
-   git commit -m 'Add some feature'
-   ```
-5. **Push to the Branch**:
-   ```sh
-   git push origin feature/your-feature-name
-   ```
-6. **Open a Pull Request** on GitHub.
+3. **Open a Pull Request** on GitHub.
 
 ## License
 
